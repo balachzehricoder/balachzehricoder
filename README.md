@@ -2,7 +2,7 @@
 
 ## CEO of WSWebSolution
 
-Welcome to my GitHub profile! I'm [Your Name], the CEO of **WSWebSolution**, where we specialize in a wide range of digital services, including:
+Welcome to my GitHub profile! I'm Balach Zehri, the CEO of **WSWebSolution**, where we specialize in a wide range of digital services, including:
 
 - **Web Development**
 - **App Development**
@@ -18,10 +18,12 @@ At WSWebSolution, our mission is to empower businesses through innovative digita
 
 ## How to Reach Me
 
-- **Email:** info@wswebsolution.com(mailto:info@wswebsolution.com)
-- **Facebook:** facebook Profile(https://www.facebook.com/profile.php?id=100091832703029)
-- **LinkedIn:** LinkedIn profile(https://www.linkedin.com/in/balach-zehri-381231258/)
-- **Website:** WSWebSolution.com(https://www.wswebsolution.com)
+- **Email:** info@wswebsolution.com
+- **Facebook:** https://www.facebook.com/profile.php?id=100091832703029
+- **LinkedIn:** https://www.linkedin.com/in/balach-zehri-381231258/
+- **Website:** https://www.wswebsolution.com
+- - **Blog:** https://medium.com/@wswebsolution
+
 
 ## Projects
 
