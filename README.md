@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Balach Zehri
 
- https://github.com/user-attachments/assets/1b6ce38e-3650-4714-9c9a-5e70eb379cd3)
+![Balach Zehri](https://github.com/user-attachments/assets/1b6ce38e-3650-4714-9c9a-5e70eb379cd3)
 
 ## CEO of WSWebSolution
+...
+
 
 Welcome to my GitHub profile! I'm Balach Zehri, the CEO of **WSWebSolution**, where we specialize in a wide range of digital services, including:
 
