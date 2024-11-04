@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Balach Zehri
 
-![Balach Zehri][(https://your-image-url.com/path-to-image.jpg](https://github.com/user-attachments/assets/1b6ce38e-3650-4714-9c9a-5e70eb379cd3))
+![Balach Zehri][([https://your-image-url.com/path-to-image.jpg](https://github.com/user-attachments/assets/1b6ce38e-3650-4714-9c9a-5e70eb379cd3)]())
 
 ## CEO of WSWebSolution
 
